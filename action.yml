@@ -32,4 +32,8 @@ runs:
     - name: Run goodbye.sh
       run: goodbye.sh
       shell: bash
-
+      
+NAME: custom
+ICON: 'https://raw.githubusercontent.com/RubbaBoy/BYOBTest/master/icons/dollar.svg'
+STATUS: 'Custom Icons'
+COLOR: red
